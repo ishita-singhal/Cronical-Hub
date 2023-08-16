@@ -1,0 +1,89 @@
+
+body{
+  font-family: Montserrat;
+}
+
+.navbar-title{
+    padding: 3% 15%;
+    
+    
+}
+h3{
+ /*   font-family: Montserrat, sans-serif;
+   */  font-size: 1.45rem;
+     line-height: 1.5;
+     text-align: justify;
+    
+}
+
+#top{
+    color: #030c38;
+    background-image: url('/image/diary.jpg');
+   /* background-size:     cover;
+    background-repeat:   no-repeat;
+    */background-repeat: no-repeat;  
+    background-position: 0% 0%;
+    background-size: 100% 100%;
+    
+}
+/* Navigation bar */
+.navbar{
+    padding:0 0 2.5rem;
+}
+.navbar-brand{
+    font-family: 'Fredoka One', cursive;
+    font-size: 3rem;
+    color: rgb(48, 6, 14);
+    font-weight: 800;
+    
+}
+img.navbar-brand{
+    border-radius: 50%;
+}
+.nav-item{
+    padding: 0 5px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.intro{
+    margin-left: 1050px;
+    margin-right: 40px;
+    padding: 0px 60px;
+    line-height: 4;
+    font-family: 'Libre Baskerville', serif;
+    word-spacing: 2px;
+}
+
+#middle{
+    margin: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+
+#aboutUs{
+    background-color: #FCC895;
+}
+.feed-text{
+    margin: 10px 80px;
+    padding: 30px 170px;
+    text-align: justify;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    font-family: 'Barlow', sans-serif;
+
+}
+.feed{
+    padding: 20px 50px 20px 100px;
+    width: 35%;
+    
+}
+#footer{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 2rpm;
+    padding: 20px;
+} 
+#footer
